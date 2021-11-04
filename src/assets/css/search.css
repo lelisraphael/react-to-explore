@@ -1,0 +1,55 @@
+/* Flex */
+.flex {
+    display: flex;
+}
+
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+.flex-item-1 {
+    flex: 1;
+}
+/* 
+img {
+    opacity: 0.5;
+    width:90%;
+    height: 150px;
+    border-radius: 30px;
+}
+
+img:hover{
+    opacity: 100;
+    transition: 2s;
+}
+
+Flex Item */
+
+.item {
+    margin: 15px;
+    background: #FFFFFF;
+    text-align: center;
+    font-size: 1.3em;
+    width: 250px;
+    padding: 20px;
+}
+
+.container {
+    max-width: 100%;
+    margin: 0 auto;
+    justify-content: center;
+    background-color: #E8E8E8;
+    padding: 30px;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px 0 0 0;
+    font-size: 1.25em;
+    font-weight: normal;
+}
+
+body {
+    font-family: monospace;
+    color: #333;
+}
